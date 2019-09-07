@@ -1,0 +1,41 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+h1,
+h2 {
+  font-size: 30px;
+  font-weight: 500;
+  text-transform: uppercase;
+  color: #050500;
+}
+ul {
+  list-style-type: none;
+  font-size: 18px;
+  font-weight: 500;
+  color: #050500;
+}
+.h2_lower {
+  font-size: 30px;
+  font-weight: 500;
+  text-transform: lowercase;
+  color: #050500;
+}
+p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #050500;
+}
+span {
+  font-size: 30px;
+  font-weight: 500;
+  text-transform: uppercase;
+  color: #ee252f;
+}
+button {
+  font-size: 18px;
+  font-weight: 500;
+  text-transform: uppercase;
+  color: #050500;
+  border-radius: 8px;
+  background-color: #f8df1f;
+}
